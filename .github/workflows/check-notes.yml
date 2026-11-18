@@ -1,0 +1,19 @@
+name: Check notes
+on:
+  push:
+    paths:
+      - 'notes/**'
+      - 'scripts/check_notes.py'
+      - '.github/workflows/check-notes.yml'
+  pull_request:
+    paths:
+      - 'notes/**'
+      - 'scripts/check_notes.py'
+      - '.github/workflows/check-notes.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Markdown notes
+        run: python3 scripts/check_notes.py
