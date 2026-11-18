@@ -1,49 +1,62 @@
-# SxxEyy — [Episode title]
+---
+id: s01eXX
+type: episode
+title: "Episode title"
+season: 1
+episode: XX
+air_date: YYYY-MM-DD
+spoiler_limit: s01eXX
+status: draft
+characters:
+  - character-slug
+concepts:
+  - concept-slug
+---
 
-- **Status:** Outline / Draft / Verified / Published
-- **Spoiler boundary:** End of SxxEyy only
-- **Last checked:** YYYY-MM-DD
-- **Episode evidence verified:** Yes / No
+# S01EXX — Episode title
 
-> Draft here, then publish HTML in `docs/seasons/season-XX/episode-YY.html`.
+> **Spoiler boundary:** through this episode only. Direct viewing pending.
 
-## Original recap
+## Quick synopsis
 
-Summarize events in this episode only.
+Concise original prose, only events through this episode.
+
+## Main story and character developments
+
+- Narrative developments supported by this episode alone.
 
 ## Central ethical dilemma
 
-Describe the conflict without references to future events.
+One clear question.
 
-## Explicitly mentioned references
+## Explicit philosophical references
 
-| Named philosopher, book, or theory | Scene or timestamp | Evidence | Checked? |
-| --- | --- | --- | --- |
-| [Name] | [Time] | [Brief paraphrase] | No |
+| Reference | Direct scene or on-screen evidence | Verification |
+| --- | --- | --- |
+| Title or name | Scene timestamp and brief paraphrase, if confirmed | pending |
 
 ## Interpretive philosophical connections
 
-Label these as the editor's analysis; do not claim the episode explicitly mentions them.
+- Label editorial interpretations and link the canonical concept.
 
-## Trivia and context
+## Blackboard and visual references
 
-Separate directly observed details from source-verified production facts.
+- Link to the episode-specific evidence log under `notes/episode-observations/`.
+
+## Trivia and cultural context
+
+- Separate directly observed details from sourced outside trivia.
 
 ## Questions to discuss
 
-1. [Question]
-2. [Question]
-3. [Question]
+1. Question answerable within this episode's viewing boundary.
 
-## Sources
+## Sources and verification
 
-- [Author, title, publication date, edition or section, URL]
+- Author, title, date, primary or scholarly URL.
 
-## Publication checklist
+## Outstanding checks
 
-- [ ] Episode-only spoiler boundary enforced throughout, including metadata
-- [ ] Explicit references verified with evidence
-- [ ] Interpretations identified
-- [ ] Sources linked and brief quotations attributed
-- [ ] Status updated from draft to published
-- [ ] Relative links, headings, keyboard navigation, and mobile layout checked
+- [ ] Episode synopsis verified by viewing.
+- [ ] Explicit references checked, no fabricated timestamps.
+- [ ] Spoiler boundary and metadata checked.

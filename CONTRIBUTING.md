@@ -4,7 +4,7 @@ The companion should support rigorous discussion of moral philosophy **without s
 
 ## Workflow
 
-1. Begin with `templates/episode-template.md`; specify `SxxEyy` and an explicit viewing boundary.
+1. Begin with a canonical `notes/episodes/season-XX/sXXeYY.md` record using `templates/episode-template.md`, with a strict viewing boundary. Put blackboard and scene observations separately in `notes/episode-observations/`.
 2. Summarize only events occurring through that episode.
 3. Classify every philosophical connection:
    - **Explicit reference:** truly named or shown; record episode evidence and a timestamp if feasible.
@@ -12,8 +12,8 @@ The companion should support rigorous discussion of moral philosophy **without s
    - **External context:** independently sourced philosophical, historical, or production background.
 4. Prefer primary philosophical texts and academic reference works. Record relevant sections, editions, and translations.
 5. Write original prose; avoid extensive transcript quotation or unlicensed images.
-6. Publish an HTML page in `docs/` and update navigation without leaking later content.
-7. Check semantics, keyboard navigation, mobile layout, source links, and the declared episode boundary.
+6. Maintain characters, philosophers, concepts and works as linked canonical `notes/` records; keep source investigations in `research/`, not in duplicate records. Publish to `docs/` only after review and update navigation without leaking later content.
+7. Run `python scripts/check_notes.py` and `python scripts/check_site.py`, then check semantics, keyboard navigation, mobile layout, source links, and episode boundaries.
 
 ## Spoilers
 

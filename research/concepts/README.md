@@ -1,3 +1,3 @@
-# Concepts and theories
+# Legacy concepts scaffold
 
-Document ethical frameworks and important distinctions. Explain what the philosophers actually argue, and separately label our interpretations of the episode.
+Canonical philosophical definitions and distinctions are in [`notes/concepts/`](../../notes/INDEX.md). Place research uncertainties in [verification](../verification/README.md).

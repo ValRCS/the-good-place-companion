@@ -1,3 +1,3 @@
-# Books and primary works
+# Legacy books scaffold
 
-Record author, original publication date, original title, edition or translation consulted, relevant chapters or passages, and reliable source URLs. Distinguish a recommended reading from an explicit in-episode book reference.
+Canonical primary-text records are in [`notes/works/`](../../notes/INDEX.md). Place edition and translation research in [bibliography](../bibliography/README.md).

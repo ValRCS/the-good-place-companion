@@ -1,3 +1,3 @@
-# Philosophers
+# Legacy philosopher scaffold
 
-One Markdown file per philosopher, covering key ideas, primary texts, relevant arguments, academic sources, and verified episode connections. Use `../../templates/philosophy-reference-template.md`.
+The canonical biographies and theory overviews are now in the [notes index](../../notes/INDEX.md) under `notes/people/philosophers/`. Put unresolved scholarly investigations in [source notes](../source-notes/README.md) and references in the [bibliography](../bibliography/README.md), not duplicate profiles here.

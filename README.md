@@ -20,8 +20,8 @@ An episode page must not reveal anything after its stated episode boundary—not
 | `docs/philosophy/` | Standalone spoiler-neutral philosophical reading library |
 | `docs/trivia/` | Source-checked cultural, visual, and production notes |
 | `docs/guide/` | Spoiler policy and editorial standards |
-| `research/` | Working philosopher, book, concept, and bibliography research |
-| `notes/` | Episode observations and discussion-question drafts |
+| `research/` | Source bibliography, investigations, and verification, not duplicate canonical articles |
+| `notes/` | Canonical Markdown: episodes, characters, philosophers, concepts, works, observations |
 | `templates/` | Reusable Markdown authoring templates |
 | `scripts/check_site.py` | Static HTML internal-link and basic accessibility checks |
 
@@ -49,14 +49,18 @@ Go to repository **Settings → Pages → Build and deployment**, select **Deplo
 
 ## Add an episode
 
-1. Draft in `notes/episode-observations/` using `templates/episode-template.md`.
+1. Draft the canonical Markdown record under `notes/episodes/season-XX/` using `templates/episode-template.md`; keep scene evidence separately in `notes/episode-observations/`.
 2. Verify explicit names, quotations, and references in the episode; distinguish these from editorial interpretations.
-3. Add the edited HTML page to `docs/seasons/season-XX/episode-YY.html`.
+3. Once the notes have been reviewed, add the edited HTML page to `docs/seasons/season-XX/episode-YY.html`.
 4. Add a spoiler-neutral link to the season index without exposing later episode details.
-5. Run `python scripts/check_site.py`; review every page's spoiler boundary and scholarly sources.
+5. Run `python scripts/check_notes.py` and `python scripts/check_site.py`; review each page's spoiler boundary and scholarly sources.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [spoiler policy](docs/guide/spoilers.html), and [editorial standards](docs/guide/editorial.html).
 
 ## Independence and rights
 
 This is an unofficial educational and critical-commentary project. *The Good Place* and related marks and characters belong to their respective rights holders. Prefer original summaries and analysis to reproduced dialogue or images. No blanket reuse license for the repository has yet been selected.
+
+## First six episodes: research corpus
+
+Start with the [Markdown notes index](notes/INDEX.md) or [Season 1 episode index](notes/episodes/season-01/README.md). The notes are the canonical research source; the GitHub Pages site remains a separate curated publication. **Maximum current narrative boundary: S01E06.**
