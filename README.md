@@ -61,6 +61,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [spoiler policy](docs/guide/spoilers.htm
 
 This is an unofficial educational and critical-commentary project. *The Good Place* and related marks and characters belong to their respective rights holders. Prefer original summaries and analysis to reproduced dialogue or images. No blanket reuse license for the repository has yet been selected.
 
-## First six episodes: research corpus
+## First nine episodes: research corpus
 
-Start with the [Markdown notes index](notes/INDEX.md) or [Season 1 episode index](notes/episodes/season-01/README.md). The notes are the canonical research source; the GitHub Pages site remains a separate curated publication. **Maximum current narrative boundary: S01E06.**
+Start with the [Markdown notes index](notes/INDEX.md) or [Season 1 episode index](notes/episodes/season-01/README.md). The notes are the canonical research source; the GitHub Pages site remains a separate curated publication. **Maximum current narrative boundary: S01E09.** Episode notes E07–E09 and supporting philosophical references were added on 2026-11-23; published HTML remains a separately curated layer.

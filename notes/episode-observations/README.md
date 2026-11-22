@@ -10,5 +10,8 @@ These notes log evidence, not episode recaps or lengthy transcripts. Use player-
 | [S01E04 observations](s01e04-observations.md) | [S01E04](../episodes/season-01/s01e04.md) |
 | [S01E05 observations](s01e05-observations.md) | [S01E05](../episodes/season-01/s01e05.md) |
 | [S01E06 observations](s01e06-observations.md) | [S01E06](../episodes/season-01/s01e06.md) |
+| [S01E07 observations](s01e07-observations.md) | [S01E07](../episodes/season-01/s01e07.md) |
+| [S01E08 observations](s01e08-observations.md) | [S01E08](../episodes/season-01/s01e08.md) |
+| [S01E09 observations](s01e09-observations.md) | [S01E09](../episodes/season-01/s01e09.md) |
 
-Each file is limited to its own episode, even though the entire research corpus has an overall S01E06 ceiling. Maintain brief paraphrases and precise links to concept/works records.
+Each file is limited to its own episode, even though the entire research corpus has an overall S01E09 ceiling. Maintain brief paraphrases and precise links to concept/works records.
