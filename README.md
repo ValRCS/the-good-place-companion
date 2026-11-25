@@ -5,7 +5,7 @@ An independent, unofficial, spoiler-conscious companion to *The Good Place*, com
 - **Repository:** https://github.com/ValRCS/the-good-place-companion
 - **Intended website:** https://valrcs.github.io/the-good-place-companion/
 
-**Status (2026-11-23):** Season 1 episodes 1–9 have complete public HTML companion articles, including a separate Episode 7–9 synthesis page marked for viewing through Episode 9. Seasons 2–4 remain spoiler-free placeholders. GitHub Pages deployment must still be checked separately from the source files.
+**Status (2026-11-25):** Season 1 episodes 1–10 have complete public HTML companion articles, including a separate Episode 7–9 synthesis page marked for viewing through Episode 9. Seasons 2–4 remain spoiler-free placeholders. GitHub Pages deployment must still be checked separately from the source files.
 
 ## The essential rule
 
@@ -61,6 +61,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [spoiler policy](docs/guide/spoilers.htm
 
 This is an unofficial educational and critical-commentary project. *The Good Place* and related marks and characters belong to their respective rights holders. Prefer original summaries and analysis to reproduced dialogue or images. No blanket reuse license for the repository has yet been selected.
 
-## First nine episodes: research corpus and publication
+## First ten episodes: research corpus and publication
 
-Start with the [Markdown notes index](notes/INDEX.md) or [Season 1 episode index](notes/episodes/season-01/README.md). The notes are the canonical research source; the GitHub Pages site remains a separate curated publication. **Maximum current narrative boundary in research notes: S01E09.** Published HTML episode companions extend through **S01E09**, with an additional, separately spoiler-labeled synthesis for E07–E09. All nine episode notes remain canonical research records on the public repository. Some scene-level timestamps and on-screen reference details still await direct verification.
+Start with the [Markdown notes index](notes/INDEX.md) or [Season 1 episode index](notes/episodes/season-01/README.md). The notes are the canonical research source; the GitHub Pages site remains a separate curated publication. **Maximum current narrative boundary in research notes: S01E10.** Published HTML episode companions extend through **S01E10**, with an additional, separately spoiler-labeled synthesis for E07–E09. All ten episode notes remain canonical research records on the public repository. Some scene-level timestamps and on-screen reference details still await direct verification.
+
+Episode 10 adds five plot-neutral reference pages covering Rawls, his major book, justice as fairness, moral decision-making, and love and friendship. The fairness page includes a local JavaScript demonstration.

@@ -91,8 +91,8 @@ def check() -> int:
         limit = data.get("spoiler_limit", "")
         if limit != "none" and ep_number(str(limit)) is None:
             errors.append(f"{path}: bad spoiler limit {limit}")
-        if ep_number(str(limit)) is not None and ep_number(str(limit)) > 109:
-            errors.append(f"{path}: exceeds current S01E09 viewing limit")
+        if ep_number(str(limit)) is not None and ep_number(str(limit)) > 110:
+            errors.append(f"{path}: exceeds current S01E10 viewing limit")
         kind = data.get("type")
         if kind == "episode":
             if rid != path.stem or ep_number(str(rid)) is None or limit != rid:

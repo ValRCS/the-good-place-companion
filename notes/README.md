@@ -24,6 +24,6 @@ Statuses: `draft`, `reviewed`, `verified`, `published`. An article may be well r
 
 ## Spoiler and evidence rules
 
-**Maximum present viewing boundary: S01E09.** Earlier episode notes may discuss only events through that episode. The repository is public even outside `docs/`. Character articles contain only introductory knowledge; later developments belong in individually bounded episode files. Label explicit in-episode evidence, interpretive comparisons, and external historical context distinctly. No guessed timestamps or extended transcript reproductions.
+**Maximum present viewing boundary: S01E10.** Earlier episode notes may discuss only events through that episode. The repository is public even outside `docs/`. Character articles contain only introductory knowledge; later developments belong in individually bounded episode files. Label explicit in-episode evidence, interpretive comparisons, and external historical context distinctly. No guessed timestamps or extended transcript reproductions.
 
 Check Markdown links and metadata with `python scripts/check_notes.py`, and HTML separately with `python scripts/check_site.py`.
